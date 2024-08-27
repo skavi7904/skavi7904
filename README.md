@@ -20,6 +20,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="30" alt="leetcode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gfg/gfg-original.svg" height="30" alt="gfg logo"  />
 </div>
 
 ###
@@ -40,8 +53,19 @@
   <a href="https://www.linkedin.com/in/skavi7904">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
+  <a href="https://www.reddit.com/user/skavi7904">
+    <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="reddit logo" />
+  </a>
+  <a href="https://twitter.com/skavi7904">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+  </a>
+  <a href="https://www.snapchat.com/add/skavi7904">
+    <img src="https://img.shields.io/static/v1?message=Snapchat&logo=snapchat&label=&color=FFFC00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="snapchat logo" />
+  </a>
+  <a href="https://www.facebook.com/skavi7904">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+  </a>
 </div>
-
 
 ###
 
