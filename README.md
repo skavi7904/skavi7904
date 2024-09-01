@@ -37,21 +37,14 @@
 
 <div align="left">
 
-  <a href="https://discordapp.com/users/skavi7904">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
+  
   <a href="mailto:skavi7904@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/skavi7904">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://www.reddit.com/user/skavi7904">
-    <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="reddit logo" />
-  </a>
-  <a href="https://twitter.com/skavi7904">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
-  </a>
+  
 
   <a href="https://www.hackerrank.com/skavi7904">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2F8E2F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo" />
@@ -61,6 +54,15 @@
   </a>
   <a href="https://www.geeksforgeeks.org/user/skavi7904">
     <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=gfg&label=&color=4C8BF5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gfg logo" />
+  </a>
+  <a href="https://discordapp.com/users/skavi7904">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
+  <a href="https://www.reddit.com/user/skavi7904">
+    <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="reddit logo" />
+  </a>
+  <a href="https://twitter.com/skavi7904">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
   </a>
 </div>
 
