@@ -36,12 +36,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/@skavi7904">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
-  <a href="https://www.instagram.com/skavi7904">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
+
   <a href="https://discordapp.com/users/skavi7904">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
@@ -57,12 +52,7 @@
   <a href="https://twitter.com/skavi7904">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
   </a>
-  <a href="https://www.snapchat.com/add/skavi7904">
-    <img src="https://img.shields.io/static/v1?message=Snapchat&logo=snapchat&label=&color=FFFC00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="snapchat logo" />
-  </a>
-  <a href="https://www.facebook.com/skavi7904">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
-  </a>
+
   <a href="https://www.hackerrank.com/skavi7904">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2F8E2F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo" />
   </a>
